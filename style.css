@@ -3,7 +3,7 @@
     color: white;
     font-weight: bold;
 }
-button{
+.btn_head{
     background-color: #4b23a8;
     border-radius: 10px;
     margin-left: 20px;
@@ -57,4 +57,22 @@ h1{
 }
 #carouselExampleSlidesOnly:hover{
     transform: scale(1.04);
+}
+.skills{
+    display: inline-block;
+    width: 500px;
+}
+.skill_btn{
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.skill_btn:hover{
+    background-color: #4b23a8;
+    color: white;
+}
+.skill_heading{
+    text-decoration: underline;
+    color: #250474;
 }
