@@ -61,16 +61,14 @@ h1{
 .skills{
     display: inline-block;
     width: 500px;
+    text-align: justify;
+
 }
-.skill_btn{
+.btn{
     font-weight: 600;
     border-radius: 5px;
-    padding: 5px;
+    padding: 10px;
     margin: 5px;
-}
-.skill_btn:hover{
-    background-color: #4b23a8;
-    color: white;
 }
 .skill_heading{
     text-decoration: underline;
